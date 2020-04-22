@@ -1,0 +1,12 @@
+bin/voltaas.pl
+lib/VoltaAs/Cubin.pm
+lib/VoltaAs/VoltaAs.pm
+lib/VoltaAs/VoltaAsGrammar.pm
+examples/vectorAdd/Makefile          
+examples/vectorAdd/NsightEclipse.xml 
+examples/vectorAdd/readme.txt        
+examples/vectorAdd/vectorAdd.cu
+LICENSE
+Makefile.PL
+MANIFEST
+README.md
