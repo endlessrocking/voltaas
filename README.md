@@ -10,6 +10,6 @@ Related projects
 
 MaxAs, https://github.com/NervanaSystems/maxas 
 AsFermi, https://github.com/hyqneuron/asfermi
-KeplerAs, https://github.com/PAA-NCIC/PPoPP2017_artifactan
+KeplerAs, https://github.com/xiuxiazhang/KeplerAs
 turingas, https://github.com/daadaada/turingas
 
